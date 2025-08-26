@@ -1,0 +1,29 @@
+
+/*--------------------------------------------------------------*/
+    /* #region - Thumb Button Element Style */
+/*--------------------------------------------------------------*/
+
+    .woocommerce ul.products.product-thumb-buttonelement-style-simple li.product .product-thumb .product-buttons-wrapper.product-button .wc_btn_inline a,
+    .woocommerce ul.products.product-thumb-buttonelement-style-simple li.product .product-thumb .product-buttons-wrapper.product-button .wc_btn_inline a.button,
+    .woocommerce ul.products.product-thumb-buttonelement-style-simple li.product .product-thumb .product-buttons-wrapper.product-button .wc_btn_inline button,
+    .woocommerce ul.products.product-thumb-buttonelement-style-simple li.product .product-thumb .product-buttons-wrapper.product-button .wc_btn_inline button.button,
+    .woocommerce ul.products.product-thumb-buttonelement-style-simple li.product .product-thumb .product-buttons-wrapper.product-button .wc_btn_inline .button { background: var(--wdtPrimaryColor) !important; color: var(--wdtAccentTxtColor); border-radius: 0; padding: var(--wdtInputPadding); }
+
+    .woocommerce ul.products.product-thumb-buttonelement-style-simple li.product .product-thumb .product-buttons-wrapper.product-button .wc_inline_buttons .wc_btn_inline { background-color: #fafafa; -webkit-box-shadow: none; box-shadow: none; border-radius: 5px; }
+
+/* #endregion - Thumb Button Element Style */
+
+
+/*--------------------------------------------------------------*/
+    /* #region - Accents */
+/*--------------------------------------------------------------*/
+
+	/* Primary */
+    .woocommerce ul.products.product-thumb-buttonelement-style-simple li.product .product-thumb .product-buttons-wrapper.product-button .wc_btn_inline:hover,
+    .woocommerce ul.products.product-thumb-buttonelement-style-simple li.product .product-thumb .product-buttons-wrapper.product-button .wc_btn_inline a:hover,
+    .woocommerce ul.products.product-thumb-buttonelement-style-simple li.product .product-thumb .product-buttons-wrapper.product-button .wc_btn_inline a.button:hover,
+    .woocommerce ul.products.product-thumb-buttonelement-style-simple li.product .product-thumb .product-buttons-wrapper.product-button .wc_btn_inline button:hover,
+    .woocommerce ul.products.product-thumb-buttonelement-style-simple li.product .product-thumb .product-buttons-wrapper.product-button .wc_btn_inline button.button:hover,
+    .woocommerce ul.products.product-thumb-buttonelement-style-simple li.product .product-thumb .product-buttons-wrapper.product-button .wc_btn_inline .button:hover { color: var(--wdtAccentTxtColor); }
+
+/* #endregion - Accents */

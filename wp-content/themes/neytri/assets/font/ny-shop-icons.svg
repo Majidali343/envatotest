@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2023 by original authors @ fontello.com</metadata>
+<defs>
+<font id="ny-shop-icons" horiz-adv-x="1000" >
+<font-face font-family="ny-shop-icons" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="shop-listing-sorting-icon-2" unicode="&#xe800;" d="M0 187v-47c0-180 110-290 290-290h173v587h-463v-250z m0 373v-47h463v337h-173c-180 0-290-110-290-290z m537-710h173c183 0 290 110 290 290v47h-463v-337z m173 1000h-173v-587h463v297c0 180-110 290-290 290z" horiz-adv-x="1000" />
+
+<glyph glyph-name="shop-listing-sorting-icon-1" unicode="&#xe801;" d="M853 140h-706c-80 0-147-67-147-147s67-143 147-143h710c80 0 146 67 146 147s-70 143-150 143z m107 710h-917c-23 0-43-20-43-43v-210c0-24 20-44 43-44h917c23 0 43 20 43 44v210c-3 23-23 43-43 43z m0-353h-917c-23 0-43-20-43-44v-210c0-23 20-43 43-43h917c23 0 43 20 43 43v210c-3 24-23 44-43 44z" horiz-adv-x="1000" />
+</font>
+</defs>
+</svg>

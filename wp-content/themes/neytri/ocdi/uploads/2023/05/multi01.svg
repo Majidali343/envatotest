@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+<style type="text/css">
+	.multi01{fill:none;stroke:currentcolor;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;}
+</style>
+<g>
+	<line class="multi01" x1="76.7" y1="4.9" x2="76.7" y2="95.1"/>
+	<line class="multi01" x1="84.4" y1="9.8" x2="84.4" y2="8.5"/>
+	<line class="multi01" x1="84.4" y1="24.9" x2="84.4" y2="25.9"/>
+	<line class="multi01" x1="84.4" y1="41.2" x2="84.4" y2="42.1"/>
+	<line class="multi01" x1="84.4" y1="57.4" x2="84.4" y2="58.3"/>
+	<line class="multi01" x1="84.4" y1="74.7" x2="84.4" y2="73.5"/>
+	<line class="multi01" x1="84.4" y1="91" x2="84.4" y2="89.7"/>
+	<line class="multi01" x1="89.4" y1="16.8" x2="89.4" y2="17.8"/>
+	<line class="multi01" x1="89.4" y1="33" x2="89.4" y2="34"/>
+	<line class="multi01" x1="89.4" y1="49.3" x2="89.4" y2="50.2"/>
+	<line class="multi01" x1="89.4" y1="66.6" x2="89.4" y2="65.4"/>
+	<line class="multi01" x1="89.4" y1="82.8" x2="89.4" y2="81.6"/>
+	<line class="multi01" x1="96.8" y1="5.1" x2="96.8" y2="95.1"/>
+	<path class="multi01" d="M19,60.4h37.9c2.9,0,5.7,1.2,7.7,3.4c3,3.3,2.8,8.4-0.4,11.4c-1.4,1.3-3.2,2.1-5.1,2.1
+		c-2.5,0.1-4.8-1.3-5.9-3.5c-0.8-1.7-0.5-3.7,0.7-5.1"/>
+	<path class="multi01" d="M27.6,37.8h30.2c2.9,0,5.7-1.2,7.7-3.4c3-3.3,2.8-8.4-0.4-11.4c-1.4-1.3-3.2-2.1-5.1-2.1
+		c-2.5-0.1-4.8,1.3-5.9,3.5c-0.8,1.7-0.5,3.7,0.7,5.1"/>
+	<line class="multi01" x1="3.2" y1="49.3" x2="66.6" y2="49.3"/>
+</g>
+</svg>

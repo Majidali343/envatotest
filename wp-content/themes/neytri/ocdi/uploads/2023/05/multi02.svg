@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+	<style type="text/css">
+	.multi02{fill:none;stroke:currentcolor;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;}
+	</style>
+	<g transform="translate(-1454.09 -4318.5)">
+		<path class="multi02" d="M1521.5,4363.5v19.9"/>
+		<path class="multi02" d="M1521.5,4349.8V4330"/>
+		<line class="multi02" x1="1527.8" y1="4336" x2="1521.5" y2="4342.3"/>
+		<line class="multi02" x1="1521.5" y1="4370.8" x2="1527.8" y2="4377"/>
+		<path class="multi02" d="M1528.4,4360.7l5.3,3.1h0l10.9,6.3"/>
+		<path class="multi02" d="M1536,4372.3l-2.3-8.6l8.6-2.3"/>
+		<path class="multi02" d="M1528.5,4352.7l5.5-3.2l10.7-6.2"/>
+		<path class="multi02" d="M1542.5,4351.8l-8.6-2.3l2.3-8.6"/>
+		<path class="multi02" d="M1498.9,4387.9v-61.2c0-3,2.5-5.5,5.5-5.5c3,0,5.5,2.5,5.5,5.5v61.2"/>
+		<path class="multi02" d="M1490.6,4370.1c-7.5,0-13.5-6.1-13.5-13.5c0-7.5,6.1-13.5,13.5-13.5"/>
+		<line class="multi02" x1="1475.7" y1="4371.4" x2="1471.5" y2="4375.7"/>
+		<line class="multi02" x1="1490.6" y1="4335.5" x2="1490.6" y2="4329.5"/>
+		<line class="multi02" x1="1490.6" y1="4383.6" x2="1490.6" y2="4377.6"/>
+		<line class="multi02" x1="1475.7" y1="4341.7" x2="1471.5" y2="4337.5"/>
+		<line class="multi02" x1="1469.6" y1="4356.6" x2="1463.6" y2="4356.6"/>
+		<path class="multi02" d="M1511.2,4388.3c7.3,3,10.8,11.4,7.7,18.7c-3,7.3-11.4,10.8-18.7,7.7s-10.8-11.4-7.7-18.7
+		c1.5-3.5,4.2-6.3,7.7-7.7"/>
+	</g>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+<style type="text/css">
+	.truck-icon-0{fill:none;stroke:currentcolor;stroke-width:3;stroke-linecap:round;}
+</style>
+<g transform="translate(-124.297 -865.878)">
+	<path class="truck-icon-0" d="M143,890.2h48.7c0.2,0,0.3,0.2,0.3,0.3v43"/>
+	<line class="truck-icon-0" x1="154.2" y1="933.5" x2="143" y2="933.5"/>
+	<line class="truck-icon-0" x1="198.6" y1="933.5" x2="170.1" y2="933.5"/>
+	<path class="truck-icon-0" d="M192.2,896h16.3c0.4,0,0.7,0.2,0.9,0.5l11.5,18.5c0.3,0.5,0.5,1.1,0.5,1.7v13.1
+		c0,2.1-1.7,3.7-3.7,3.7l0,0h-3.3"/>
+	<circle class="truck-icon-0" cx="206.5" cy="933.7" r="7.9"/>
+	<path class="truck-icon-0" d="M170.1,933.7c0,4.3-3.5,7.9-7.9,7.9s-7.9-3.5-7.9-7.9c0-4.3,3.5-7.9,7.9-7.9
+		C166.6,925.8,170.1,929.3,170.1,933.7L170.1,933.7z"/>
+	<path class="truck-icon-0" d="M212.4,902.8h-9.3c-0.4,0-0.8,0.3-0.8,0.8c0,0,0,0.1,0,0.1l2,11.1c0.1,0.5,0.5,0.9,1,0.9h15.6"/>
+	<line class="truck-icon-0" x1="132.4" y1="898" x2="142.9" y2="898"/>
+	<line class="truck-icon-0" x1="136.1" y1="907.3" x2="147.3" y2="907.3"/>
+	<line class="truck-icon-0" x1="132.6" y1="925.7" x2="147.4" y2="925.7"/>
+	<line class="truck-icon-0" x1="127.2" y1="916.5" x2="142.3" y2="916.5"/>
+</g>
+</svg>

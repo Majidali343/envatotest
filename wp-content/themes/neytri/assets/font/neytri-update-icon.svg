@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2025 by original authors @ fontello.com</metadata>
+<defs>
+<font id="neytri-update-icon" horiz-adv-x="1000" >
+<font-face font-family="neytri-update-icon" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="twitter-x" unicode="&#xe800;" d="M760 756h138l-301-344 354-468h-277l-218 284-248-284h-138l322 368-340 444h285l196-259 227 259z m-48-730h76l-493 652h-82l499-652z" horiz-adv-x="1000" />
+</font>
+</defs>
+</svg>

@@ -1,0 +1,1 @@
+<?php echo apply_filters( 'neytri_footer_get_template_part', neytri_get_template_part( 'footer', 'templates/footer', '', array() ) ); ?>
